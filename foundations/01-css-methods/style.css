@@ -1,8 +1,8 @@
 div {
   background: red;
-  text-color: white;
+  color: white;
   font-size: 32px;
   text-align: center;
-  text-decor: bold;
+  font-weight: bold;
 }
 # a red background, white text, a font size of 32px, center aligned, and bold
